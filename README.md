@@ -1,1 +1,1 @@
-Test
+This is the readme file for StoreFront. Our new app!
