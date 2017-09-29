@@ -1,0 +1,19 @@
+{
+  "name": "storefront",
+  "version": "1.0.0",
+  "description": "This is the readme file for StoreFront. Our new app!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powernerd/storefront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powernerd/storefront/issues"
+  },
+  "homepage": "https://github.com/powernerd/storefront#readme"
+}
